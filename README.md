@@ -51,17 +51,3 @@ Após executar todas as células, um prompt `Você:` aparecerá no seu terminal 
 * "Como faço a manutenção do nobreak?"
 * "Qual a voltagem de entrada?"
 * "Para que serve a função ECO?"
-
-## Contribuições
-
-Contribuições são muito bem-vindas! Se você tiver sugestões para:
-* Aprimorar a `SystemMessage` para refinar o comportamento do agente.
-* Experimentar outras configurações de `ConversationalRetrievalChain` ou outros tipos de `retriever`.
-* Integrar com diferentes tipos de fontes de dados (e.g., websites, bases de dados).
-* Adicionar uma interface de usuário mais amigável.
-
-Por favor, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes. (Se você não tiver um, pode criar um ou usar outra licença de sua preferência).
