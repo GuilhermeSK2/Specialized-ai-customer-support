@@ -38,7 +38,7 @@ A abordagem RAG é ideal para criar assistentes de IA que precisam de conhecimen
     * **Importante:** No notebook `AgenteRAGEspecializado.ipynb`, substitua `"Sua_Chave_Aqui"` pela sua chave de API real. Para maior segurança em projetos reais, considere usar variáveis de ambiente (e.g., com `python-dotenv`).
 
 2.  **Arquivo PDF do Manual:**
-    * Certifique-se de que o arquivo `manual_avancado_nobreak_fxp2000.pdf` esteja no mesmo diretório do notebook. Este é o documento que o agente usará como base de conhecimento.
+    * Certifique-se de que o arquivo `manual_avancado_nobreak_fxp2000.pdf` ou o arquivo que você deseja usar de base de conhecimento para o agente esteja no mesmo diretório do notebook. Este é o documento que o agente usará como base de conhecimento.
 
 ## Interagindo com o Agente
 
