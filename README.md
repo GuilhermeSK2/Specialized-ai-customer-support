@@ -50,4 +50,3 @@ Após executar todas as células, um prompt `Você:` aparecerá no seu terminal 
 * "E de falha interna?"
 * "Como faço a manutenção do nobreak?"
 * "Qual a voltagem de entrada?"
-* "Para que serve a função ECO?"
